@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>My contact</title>
+  </head>
+  <body>
+    <img src="https://hosting.photobucket.com/images/i/ifesinachi/4eafc0e3c8f13584cebce2af60181abd.jpg" alt="My picture">
+    <h2>Anieze Gad</h2>
+  <p>Email: aniezegad@gmail.com.</p>
+
+
+    <form class="" action="mailto:info@londonappbrewery.com" method="post">
+      <label for="">YOUR NAME:</label>
+      <input type="text" name="" value="">
+      <input type="color" name="" ><br>
+      <label for="">Do you want to sign up to the email list?</label>
+      <input type="checkbox" name="" value="">
+      <input type="submit" name="" ><br>
+      <label for="">Password</label>
+      <input type="password" name="" value=""><br>
+      <label for="">Your massage</label><br>
+      <textarea name="name" rows="10" cols="80"></textarea>
+      <input type="submit" name="">
+
+    </form>
+<br>
+  </body>
+</html>
